@@ -1,4 +1,5 @@
 (function () {
+    let balabas
     const header = document.querySelector('.header');
     window.onscroll = () => {
         if (window.pageYOffset > 50) {
