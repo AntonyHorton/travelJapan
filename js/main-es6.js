@@ -1,4 +1,5 @@
 (function () {
+    let balabas
     const header = document.querySelector('.header');
     window.onscroll = () => {
         if (window.pageYOffset > 50) {
@@ -10,6 +11,7 @@
 }());
 erter
 // Burger handler
+let balda
 (function () {
     const burgerItem = document.querySelector('.burger');
     const menu = document.querySelector('.header__nav');
